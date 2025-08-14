@@ -9,10 +9,10 @@ If you find the code useful, please consider citing our article:
   author={Qu, Jiahui and Dong, Wenqian and Yang, Yufei and Zhang, Tongzhen and Li, Yunsong and Du, Qian},
   journal={IEEE Transactions on Neural Networks and Learning Systems}, 
   title={Cycle-Refined Multidecision Joint Alignment Network for Unsupervised Domain Adaptive Hyperspectral Change Detection}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-14},
+  year={2025},
+  volume={36},
+  number={2},
+  pages={2634-2647},
   keywords={Hyperspectral imaging;Feature extraction;Training;Adaptive systems;Task analysis;Reliability;Adaptation models;Change detection;hyperspectral image (HSI);progressive alignment;unsupervised domain adaptive},
   doi={10.1109/TNNLS.2023.3347301}}
 ```
